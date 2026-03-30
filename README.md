@@ -8,5 +8,4 @@ Data Wrangling: Converting string price data (e.g., $10,300) to numeric format u
 Visualization: Using Seaborn and Matplotlib to visualize data distribution.
 Data Filtering: Successfully identified and removed 244 outliers.
 📊 Visual Proof:
-
 <img width="1184" height="490" alt="Images" src="https://github.com/user-attachments/assets/bc8f9860-062e-4739-ad90-6de128f58263" />
